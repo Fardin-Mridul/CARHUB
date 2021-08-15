@@ -1,0 +1,561 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*banner*/
+.banner {
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+.b_h2 {
+    font-size: 20px;
+}
+.b_h1 {
+    font-size: 30px;
+}
+.b_h3 {
+    letter-spacing: 0px;
+}
+.b_img {
+    padding-top: 20px;
+}
+.bcar_c {
+    height: 200px;
+    width: 318px;
+    margin-bottom: -80px;
+}
+.f_custom {
+    margin-top: 20px;
+}
+/*banner*/
+/*contact*/
+.contact {
+    background-color: #FFC61A;
+    padding-top: 55px;
+    padding-bottom: 50px;
+}
+
+.c_h3 {
+    font-size:25px;
+    text-align: center;
+}
+.c_h1, .c_h2 {
+    font-size: 25px;
+    text-align: center;
+}
+.c_p {
+    font-size: 16px;   
+}
+.c_a h5 {
+    display: inline-block;
+    padding: 10px 20px;
+}
+.c_form{
+margin-top: 20px;
+}
+.cf_h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.c_btn {
+    padding: 7px 125px;
+}
+/*contact*/
+/*tariffs*/
+.t_hed {
+    margin-top: -15px;
+}
+.tariffs {
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+.tcnt1 {
+    margin: 0px 40px;
+}
+.timg {
+    margin-bottom: -91px;
+    padding-top: 19px;
+    height: 170px;
+    width: 295px;
+}
+.t_h2 {
+    margin-top: 15px;
+}
+.t_p {
+    padding: 0px 28px;
+}
+.t_h1 {
+    font-size: 30px;
+    margin-bottom: 19px;
+}
+/*tariffs*/
+/*service*/
+.service {
+    padding-top: 30px;
+    padding-bottom: 20px 
+}
+.s_h1 {
+    font-size: 30px;
+    margin-bottom: -32px;
+}
+.s_h2 {
+    font-size: 30px;
+}
+.s_icon {
+    margin: 6px auto;
+}
+.s_text {
+    margin-bottom: 25px;
+    text-align: center;
+}
+.st_h1 {
+    font-size: 20px;
+}
+.s_p {
+    font-size: 16px;
+    margin: 0px 26px;
+}
+.s_a {
+    padding: 10px 38px;
+    font-size: 20px;
+}
+/*service*/
+/*download*/
+.download {
+    padding-top: 12px;
+    padding-bottom: 30px;
+}
+.d_h2 {
+    font-size: 30px;
+}
+.d_h1 {
+    font-size: 27px;
+    margin-bottom: 18px;
+}
+.dl_h1 {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.dimg2 a img {
+    width: 40%;
+    margin: 6px 4px;
+}
+.dimg3 a img {
+    width: 40%;
+    margin: 6px 4px;
+}
+/*download*/
+/*clients*/
+.client {
+    padding-bottom: 10px;
+}
+.cl_head {
+    padding-top: 23px;
+    padding-bottom: 10px;
+}
+.clint {
+    margin-bottom: 20px;
+}
+.cl_head h2 {
+    font-size: 25px;
+}
+.cl_head h1 {
+    font-size: 33px;
+}
+.clint p {
+    font-size: 16px;
+    padding: 14px 0px 0px 20px;
+}
+.jhon-h3 {
+    font-size: 20px;
+}
+.jhon-h4 {
+    font-size: 16px;
+}
+/*clients*/
+/*call*/
+.call {
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.call_h1 h1 {
+    font-size: 19px;
+}
+.call_h2 h2 {
+       font-size: 25px;
+}
+/*call*/
+/*footer*/
+footer {
+    padding-bottom: 3px;
+}
+.fcnt1 h1 {
+    font-size: 20px;
+}
+.line {
+    height: 3px;
+    width: 165px;
+}
+.fcnt1 p {
+    font-size: 16px;
+}
+.fcnt2 h1 {
+    font-size: 20px;
+}
+.fcnt2 p {
+    font-size: 16px;
+}
+.fcnt2 h5 {
+    font-size: 18px;
+}
+.fcnt2 h6 {
+    font-size: 18px;
+}
+.fcnt3 h1 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+.line3 {
+    height: 3px;
+    width: 115px;
+    margin: 15px 0;
+}
+.fcnt3 p {
+    font-size: 16px;
+}
+/*footer*/
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*banner*/
+.banner {
+    padding-top: 35px;
+    padding-bottom: 45px;
+}
+.b_h2 {
+    font-size: 33px;
+}
+.b_h1 {
+    font-size: 45px;
+}
+.b_h3 {
+    font-size: 16px;
+    letter-spacing: 10px;
+}
+.b_img {
+    padding-top: 10px;
+}
+.bcar_c {
+    height: 286px;
+    width: 440px;
+    transition: 0.3s;
+    margin-bottom: -102px;
+}
+/*banner*/
+/*contact*/
+.contact {
+    background-color: #FFC61A;
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+
+.c_h3 {
+    font-size: 30px;
+    text-align: center;
+}
+.c_h1, .c_h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.c_a h5 {
+    display: inline-block;
+    padding: 12px 27px; 
+}
+.c_form{
+margin-top: 20px;
+}
+.cf_h1 {
+    text-align: center;
+}
+.c_btn {
+    padding: 7px 150px;
+}
+/*contact*/
+/*tariffs*/
+.t_hed {
+    margin-top: -15px;
+}
+.tariffs {
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+.tcnt1 {
+    margin: 0px 104px;
+}
+.timg {
+    transition: 0.5s;
+    margin-bottom: -90px;
+    padding-top: 35px;
+}
+.t_h2 {
+    margin-top: 15px;
+}
+.t_p {
+    padding: 0px 28px;
+}
+.t_h1 {
+    font-size: 35px;
+    margin-bottom: 19px;
+}
+/*tariffs*/
+/*service*/
+.service {
+    padding-bottom: 45px;
+}
+.s_h2 {
+    font-size: 30px;
+}
+.s_h1 {
+    font-size: 35px;
+    margin-bottom: -27px;
+}
+.s_icon {
+    margin: 0px 0px 14px 230px;
+}
+.s_text {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.st_h1 {
+    font-size: 22px;
+}
+.s_p {
+    font-size: 16px;
+    margin: 0px 66px;
+}
+/*service*/
+/*download*/
+.download {
+    padding-top: 30px;
+}
+.d_h2 {
+    font-size: 30px;
+}
+.d_h1 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.dl_h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.dl_p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.dimg2 a img {
+width: 45%;
+margin-bottom: 10px;
+}
+.dimg3 a img {
+    width: 45%
+}
+.dimg2 a img {
+    transition: 0.5s;
+    margin: 15px 0px;
+}
+.dimg3 a img {
+    transition: 0.5s;
+    margin: 15px 0px;
+}
+/*download*/
+/*clients*/
+.cl_head {
+    padding-top: 55px;
+    padding-bottom: 45px;
+}
+/*clients*/
+/*call*/
+.call {
+    padding-top: 37px;
+    padding-bottom: 15px;
+}
+.call_h1 h1 {
+    font-size: 19px;
+}
+.call_h2 h2 {
+    font-size: 30px;
+}
+/*call*/
+/*footer*/
+.line3 {
+    width: 195px;
+    margin: 10px auto;
+}
+.fcnt3 span i {
+    font-size: 20px;
+    margin: 4px 5px;
+}
+
+.fcnt3 {
+    text-align: center;
+}
+/*footer*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*banner*/
+.banner {
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+.b_h1 {
+    font-size: 50px;
+}
+.b_h3 {
+    font-size: 16px;
+    letter-spacing: 12px;
+}
+.b_img {
+    padding-top: 19px;
+}
+.bcar_c {
+    height: 279px;
+    width: 419px;
+    margin-bottom: -106px;
+}
+/*banner*/
+/*contact*/
+.contact {
+    background-color: #FFC61A;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+.c_h3 {
+    font-size: 30px;
+    text-align: center;
+}
+.c_h1, .c_h2 {
+    font-size: 35px;
+    text-align: center;
+}
+.c_a h5 {
+    display: inline-block;
+    padding: 12px 27px; 
+}
+.c_form{
+margin-top: 20px;
+}
+.cf_h1 {
+    text-align: center;
+}
+.c_btn {
+padding: 7px 160px;
+}
+/*contact*/
+/*tariffs*/
+.tariffs {
+    padding-top: 0px;
+}
+.tcnt1 {
+    margin: 0px 104px;
+}
+.timg {
+    transition: 0.5s;
+    margin-bottom: -90px;
+    padding-top: 35px;
+}
+.t_h2 {
+    margin-top: 15px;
+}
+.t_p {
+    font-size: 16px;
+    padding: 0px 70px;
+}
+/*tariffs*/
+/*service*/
+.service {
+    padding-bottom: 45px;
+}
+.s_h2 {
+    font-size: 30px;
+}
+.s_h1 {
+    font-size: 35px;
+}
+.s_icon {
+    margin-top: 8px;
+}
+.s_text{
+margin-bottom: 60px;
+}
+.st_h1 {
+    font-size: 22px;
+}
+.s_p {
+    font-size: 16px;
+    margin: 0px 0px 0 0;
+}
+/*service*/
+/*download*/
+.d_h2 {
+    font-size: 30px;
+}
+.d_h1 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.dl_h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.dl_p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.dimg2 a img {
+    transition: 0.5s;
+    margin-bottom: 10px;
+}
+.dimg3 a img {
+    width: 45%
+    margin-bottom: 10px;
+}
+/*download*/
+/*clients*/
+.cl_head {
+    padding-top: 55px;
+    padding-bottom: 45px;
+}
+/*clients*/
+/*call*/
+.call {
+    padding-top: 37px;
+    padding-bottom: 15px;
+}
+.call_h1 h1 {
+    font-size: 24px;
+}
+.call_h2 h2 {
+    font-size: 40px;
+}
+/*call*/
+/*footer*/
+.line {
+    width: 195px;
+}
+.fcnt3 span i {
+    font-size: 20px;
+    margin: 4px 5px;
+}
+/*footer*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { ... }
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { ... }
